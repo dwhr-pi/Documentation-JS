@@ -19,6 +19,8 @@
 - Integrates with GitHub to link directly from documentation to the code it refers to.
 - Customizable output: HTML, JSON, Markdown, and more
 
+- Take a look at [Javascript at Github](https://github.com/search?q=Javascript+doc)
+
 ## Examples
 
 - [HTML output with default template](https://documentation.js.org/html-example/)
